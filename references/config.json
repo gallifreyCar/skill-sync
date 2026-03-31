@@ -1,0 +1,11 @@
+{
+  "registry_repo": "https://github.com/gallifreyCar/my-claude-skills-registry",
+  "sync_on_install": true,
+  "categories": {
+    "custom": "~/.claude/skills/",
+    "plugins": "~/.claude/plugins/cache/",
+    "built-in": "claude-code-native"
+  },
+  "commit_prefix": "Auto-sync skills",
+  "branch": "main"
+}

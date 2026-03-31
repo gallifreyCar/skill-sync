@@ -1,5 +1,7 @@
 # Skill Sync 中文版
 
+[English](README.md) | [中文](README_CN.md)
+
 一个 Claude Code 技能，用于自动将已安装技能的文档同步到注册表仓库。
 
 ## 安装

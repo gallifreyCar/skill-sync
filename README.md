@@ -1,5 +1,7 @@
 # Skill Sync
 
+[English](README.md) | [中文](README_CN.md)
+
 A Claude Code skill that automatically synchronizes installed skills documentation to a registry repository.
 
 ## Installation
